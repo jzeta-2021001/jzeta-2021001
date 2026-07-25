@@ -51,9 +51,9 @@ Desarrollador independiente enfocado en construir aplicaciones web robustas, des
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| **Nimbus Tasks** | Gestor de tareas colaborativo en tiempo real | React · Zustand · Node.js |
-| **Ledger API** | API REST para control de finanzas personales | C# · .NET · Docker |
-| **Studio Commerce** | Tienda en línea minimalista con panel administrativo | JavaScript · Express · CSS |
+| **FeelWeel** | Gestor de acomñamiento personal | JavaScript · C# · .NET · Docker · React · Zustand · Node.js |
+| **ChapinBank** | Gestor control de finanzas personales | JavaScript · C# · .NET · Docker · React · Zustand · Node.js |
+| **DebuggersEats** | Tienda en línea para resutaruantes | JavaScript · C# · .NET · Docker · React · Zustand · Node.js |
 
 Los repositorios completos de cada proyecto están disponibles como repositorios fijados en este perfil.
 
@@ -74,6 +74,6 @@ Los repositorios completos de cada proyecto están disponibles como repositorios
 
 Disponible para oportunidades freelance y para conversar con reclutadores interesados en mi perfil.
 
-[![Portafolio](https://img.shields.io/badge/Ver_Portafolio-white?style=for-the-badge&logo=safari&logoColor=black)](https://tu-link-aqui.vercel.app)
+[![Portafolio](https://img.shields.io/badge/Ver_Portafolio-white?style=for-the-badge&logo=safari&logoColor=black)](https://vercel.com/cz12)
 
 </div>
