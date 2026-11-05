@@ -74,6 +74,6 @@ Los repositorios completos de cada proyecto están disponibles como repositorios
 
 Disponible para oportunidades freelance y para conversar con reclutadores interesados en mi perfil.
 
-[![Portafolio](https://img.shields.io/badge/Ver_Portafolio-white?style=for-the-badge&logo=safari&logoColor=black)](https://vercel.com/cz12)
+[![Portafolio](https://img.shields.io/badge/Ver_Portafolio-white?style=for-the-badge&logo=safari&logoColor=black)](czeta.vercel.app)
 
 </div>
