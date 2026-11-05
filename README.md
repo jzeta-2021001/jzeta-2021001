@@ -20,7 +20,7 @@ const carlosZeta = {
   estudios: "Técnico en Programación — Colegio Kinal (Promoción 2026)",
   rol: "Desarrollador Web Freelance",
   enfoque: "Aplicaciones eficientes, escalables y de alto rendimiento",
-  estadoActual: "En formación constante",
+  estadoActual: "Perito técnico en informática & En formación constante",
 };
 ```
 
